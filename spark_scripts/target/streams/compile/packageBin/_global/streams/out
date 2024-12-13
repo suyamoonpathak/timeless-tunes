@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging S:\Timeless Tunes\spark_scripts\target\scala-2.12\recommendationengine_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendationEngine$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  S:\Timeless Tunes\spark_scripts\target\scala-2.12\classes\RecommendationEngine$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RecommendationEngine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  S:\Timeless Tunes\spark_scripts\target\scala-2.12\classes\RecommendationEngine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
